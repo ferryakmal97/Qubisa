@@ -1,0 +1,3 @@
+const ADD_CATEGORIES: string = 'ADD_CATEGORIES';
+
+export {ADD_CATEGORIES};
